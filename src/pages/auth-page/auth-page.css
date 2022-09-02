@@ -1,0 +1,5 @@
+.auth-page {
+  height: 100vh;
+  background: no-repeat url("/src/pages/auth-page/azdahak.jpeg");
+  background-size: cover;
+}
